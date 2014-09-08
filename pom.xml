@@ -24,4 +24,6 @@
 			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
+	<build>
+	</build>
 </project>
